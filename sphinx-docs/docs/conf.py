@@ -43,5 +43,5 @@ html_context = {
   'display_github': True,
   'github_user': 'mschmidt101010',
   'github_repo': 'sphinx-demo',
-  'github_version': 'master/docs/'
+  'github_version': 'main/sphinx-docs/docs/'
 }
