@@ -1,2 +1,3 @@
 # sphinx-demo
-Empty project with a Sphinx documentation folder to demonstrate GitHub Pages with Sphinx
+
+This repository should demonstrate how to add a Sphinx documentation to your repository and deploy it automatically via GitHub Actions and GitHub Pages.
