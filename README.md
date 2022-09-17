@@ -1,3 +1,5 @@
+[![Deploy sphinx-docs to Pages](https://github.com/mschmidt1010/sphinx-demo/actions/workflows/pages.yml/badge.svg)](https://github.com/mschmidt1010/sphinx-demo/actions/workflows/pages.yml)
+
 # sphinx-demo
 
 This repository should demonstrate how to add a Sphinx documentation to your repository and deploy it automatically via GitHub Actions and GitHub Pages.
